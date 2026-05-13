@@ -1,5 +1,4 @@
 # 🛡️ Sentinel-IoT: Smart Security & Climate Guard
-### **TR3163 Internet of Things — Assignment 1**
 
 ## 📝 Project Description
 The **Sentinel-IoT** is a multi-functional IoT node built on the **ESP32** platform. It combines environmental monitoring with an autonomous security system. The project features a custom web dashboard for live telemetry and manual actuator control, alongside localized automation logic that enables the system to react instantly to physical movement.
